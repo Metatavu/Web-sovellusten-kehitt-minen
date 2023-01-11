@@ -1,1 +1,1 @@
-# Web-sovellusten-kehittaminen
+# Web-sovellusten kehittäminen -kurssilla käytettävä repositorio tiedostojen jakamiseen.
