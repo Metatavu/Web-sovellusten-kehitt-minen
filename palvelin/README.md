@@ -5,7 +5,7 @@
 Luo projektille oma kansio ja navigoi komentorivillä sinne
 
 # Alustus 
-npm init
+npm init -> 
 Määrittele package.json syöttämällä pyydetyt arvot tai painamalla jokaisen kohdalla Enter
 
 # Asenna express
@@ -19,6 +19,6 @@ Lisää package.json-tiedoston "scripts"-olioon uusi ominaisuus "start": "ts-nod
 
 -----------------------------------------------------------------------------------------------------------
 # Sovelluksen käynnistäminen (esim. ladattaessa esimerkkikoodit githubista)
-Navigoi projektikansion juureen
-npm install
+Navigoi projektikansion juureen -> 
+npm install -> 
 npm run start
